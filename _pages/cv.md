@@ -5,4 +5,4 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-[Cliquez ici pour télécharger mon CV (PDF)]({{ site.url }}/files/cv.pdf)
+[Cliquez ici pour télécharger mon CV (PDF)](https://clement-robiez.github.io/files/cv.pdf)
