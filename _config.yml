@@ -23,9 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
-  name             : "Clément Robiez"
-  pronouns         : # example: "she/her"  
+  name             : "Clément Robiez" 
   bio              : "Agrégé de mathématiques en 2026, je partage ici mes ressources"
   location         : ""
   employer         : ""
