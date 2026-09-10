@@ -1,6 +1,6 @@
 
 ---
-title: "colles"
+title: "Colles"
 permalink: /colles/
 author_profile: false
 ---
