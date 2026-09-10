@@ -8,7 +8,7 @@ Bienvenue sur mon site dédié à l'agrégation de mathématiques. Vous y trouve
 
 ## Ressources disponibles
 
-- **Agrégation** : développements, leçons, annales.
+- **Agrégation** : développements, leçons.
 - **Colles** : exercices et corrigés pour les classes de MP.
 - **CV** : mon parcours et mes expériences.
 
