@@ -7,5 +7,5 @@ Vous trouverez ici mes ressources pour ma préparation à l'agrégation. Des pla
 
 Développements :
 
-(https://clement-robiez.github.io/Développements.pdf)
+(https://clement-robiez.github.io/files/Développements.pdf)
 
